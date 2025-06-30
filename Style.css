@@ -107,6 +107,9 @@ body{
     width: 50%;
     font-size: 15px;
 }
+.forgot a:hover, .sign_in a:hover{
+    color: rgb(138, 138, 9);
+}
 
 @media only screen and (max-width: 643px){
 
