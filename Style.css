@@ -37,6 +37,7 @@ body{
 .login-form i{
     position: relative;
     left: 78%;
+    color: yellow;
 }
 .login-form input{
     background: none;
